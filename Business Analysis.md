@@ -57,15 +57,15 @@ The support environment is ideally made for website and mobile browers for poten
 # 6. Other preliminary life-cycle concepts
 
 ## 6.1 Preliminary acquisition concept
-
+The system solution will be aqcuired via weekly meeting with the stakeholders. The weekly meeting will have disussion of what the client needs and what takes priority. The stakeholder and developers will discuss about the features and deliverable prototypes at set time intervals. The prototype will be tested for it's features and is a great to display the progress overall. And requirement checks at regular time interval as well. The production and verification will be tested through elicitation forms and unit testing of the system. The feedbacks will be important on the functionality of the system and needs by the client and stakeholder. 
 ## 6.2 Preliminary deployment concept
-
+The system will be deployed online for the business to test the functionality of the toolbox. Within existing business network they will get early access on the production of the new website. As for the client, it will be a web browser website on both mobile and computer. Then later on a mobile application is possible if clients demands.  
 ## 6.3 Preliminary support concept
-
+In the early stages there will be a feedback option in the toolbox for clients to report on bugs, request, and others. As well regular maintanence, bug fixes, and solutions for problems in post launch. 
 ## 6.4 Preliminary retirement concept
-
+The user/clients will be notified about a year before the retirement of the toolbox. Then either replaced with an updated version or a new system that is superior to the toolbox. With features that support new technology devices. 
 # 7. Project Constraints
-
+The constraints of the project will be cost and features. The reason behind cost is for regular maintainence and the addition of features. Due to users may want features that satisfies once needs or more control over a certain feature. To keep the cost low it will be best to have simple features that satisfies the user needs. It's best for the client to interact at basic levels and be happy. Then later on we can add more options to each individual features. As for scheduling, we would deploy the feature that is used the most and from there add on. Till the toolbox satisfies the stakeholders and clients and is deployed. 
 # 8. Appendix
 
 ## 8.1 Acronyms and abbreviations
